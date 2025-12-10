@@ -10,5 +10,5 @@ Here is an interactive map of the bike parking locations I documented:
 
 Here are some of the static maps I created:
 
-<img width="546" height="790" alt="cameras static map" src="https://github.com/user-attachments/assets/8f41e911-984c-4348-92da-e8b8d76a754b" />
-<img width="683" height="790" alt="walk buffer static map" src="https://github.com/user-attachments/assets/7c718ba1-88ca-403f-bd29-26d0c0e069b8" />
+<img width="546" height="790" alt="cameras static map" src="https://raw.githubusercontent.com/ey135/newbrunswick_bike_parking/refs/heads/main/cameras%20static%20map.png" />
+<img width="683" height="790" alt="walk buffer static map" src="https://raw.githubusercontent.com/ey135/newbrunswick_bike_parking/refs/heads/main/walk%20buffer%20static%20map.png" />
